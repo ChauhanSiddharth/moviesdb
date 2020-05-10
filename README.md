@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##  SEARCH MOVIES DATBASE
+
+Uses OMDb API, to load in react application. Designed in Material UI.<br />
+
+Screenshot of Application
+<br />
+<img src="https://i.ibb.co/f88NpqK/movies.png" alt="movies" border="0">
 
 ## Available Scripts
 
