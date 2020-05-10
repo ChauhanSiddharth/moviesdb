@@ -1,8 +1,9 @@
 ##  SEARCH MOVIES DATBASE
 
-Uses OMDb API, to load in react application. Designed in Material UI.<br />
+Uses OMDb API, to load in react application. Designed in Material UI.
+<br />
 
-Screenshot of Application
+**Screenshot of Application**
 <br />
 <img src="https://i.ibb.co/f88NpqK/movies.png" alt="movies" border="0">
 
