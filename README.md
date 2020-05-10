@@ -1,6 +1,6 @@
 ##  SEARCH MOVIES DATABASE
 
-Uses OMDb API, to load in react application. Designed in Material UI.
+Uses <a href="http://www.omdbapi.com/">OMDb API</a>, to load in react application. Designed in Material UI.
 <br />
 
 **Screenshot:**
