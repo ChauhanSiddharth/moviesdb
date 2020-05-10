@@ -25,7 +25,9 @@ main{
   max-width: 960px;
   margin: 0 auto;
 }
-
+a{
+  color: blueviolet;
+}
 footer .footerText{
   position: fixed;
   left: 0;
