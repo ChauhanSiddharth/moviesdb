@@ -3,7 +3,7 @@
 Uses OMDb API, to load in react application. Designed in Material UI.
 <br />
 
-**Screenshot of Application**
+**Screenshot:**
 <br /><br />
 <img src="https://i.ibb.co/f88NpqK/movies.png" alt="movies" border="0">
 
