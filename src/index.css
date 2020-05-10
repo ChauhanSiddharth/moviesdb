@@ -103,7 +103,7 @@ section{
   height: 100vh;
   background-color: #223343;
 
-  overflow: hidden;
+  overflow-y: scroll;
 }
 
 .popup .content{

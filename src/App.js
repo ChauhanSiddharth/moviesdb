@@ -36,7 +36,7 @@ function App() {
   const openPopup = id => {
     axios(apiurl + "&i=" + id).then(({ data }) => {
       let result = data;
-      document.body.style.overflow = "hidden";
+      //document.body.style.overflow = "hidden";
       console.log(result)
       setState(prevState => {
         return { ...prevState, selected: result }
@@ -45,7 +45,7 @@ function App() {
   }
 
   const closePopup = () => {
-    document.body.style.overflow = "scroll";
+    //document.body.style.overflow = "scroll";
     setState(prevState => {
       return{ ...prevState, selected: {} }
     });
