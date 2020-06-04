@@ -31,7 +31,7 @@ function App() {
     setState(prevState => {
       return { ...prevState, s: s }
     });
-    
+
   }
   const openPopup = id => {
     axios(apiurl + "&i=" + id).then(({ data }) => {
@@ -66,7 +66,7 @@ function App() {
         <footer>
           <Typography variant="body1" className="footerText" gutterBottom>Built with <a href="https://reactjs.org/">ReactJS</a> & <a href="https://material-ui.com/">Material UI</a></Typography>
         </footer>
-      
+
     </div>
   );
 }
