@@ -13,7 +13,7 @@ function Popup({ selected, closePopup }){
                 Rating: {selected.imdbRating}
                 </Typography>
                 <div className="plot">
-                    <img src={selected.Poster} />
+                    <img src={selected.Poster} alt=""/>
                     <Typography variant="body1" gutterBottom>
                         {selected.Plot}
                     </Typography>
