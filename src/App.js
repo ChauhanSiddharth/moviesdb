@@ -62,10 +62,7 @@ function App() {
           <Results results={state.results} openPopup={openPopup} />
           {(typeof state.selected.Title != "undefined") ? <Popup selected={state.selected} closePopup={closePopup} /> :false}
         </main>
-        <footer>
-          <Typography variant="body1" className="footerText" gutterBottom>Built with <a href="https://reactjs.org/">ReactJS</a> & <a href="https://material-ui.com/">Material UI</a></Typography>
-        </footer>
-
+        
     </div>
   );
 }
